@@ -2,183 +2,154 @@
 
 # CZE-PL
 
-### Mobile Technology for a Smarter Everyday Life
+### Premium Mobile Technology. Smarter Choices.
 
-**Smartphones • Accessories • Wearables • Audio • Charging • Mobile Essentials**
-
-<br>
-
-[![Website](https://img.shields.io/badge/Website-Coming%20Soon-black?style=for-the-badge)](#)
-[![Store](https://img.shields.io/badge/Online%20Store-In%20Development-blue?style=for-the-badge)](#)
-[![Support](https://img.shields.io/badge/Customer%20Support-Available-success?style=for-the-badge)](#)
+**Smartphones • Accessories • Wearables • Audio • Mobile Essentials**
 
 <br>
 
-**Premium technology. Competitive pricing. Reliable service.**
+![Store Status](https://img.shields.io/badge/Store-Online%20Experience-0A84FF?style=for-the-badge)
+![Technology](https://img.shields.io/badge/Industry-Mobile%20Technology-111827?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Design-Responsive-22C55E?style=for-the-badge)
+
+<br>
+
+**Modern devices. Competitive pricing. Professional service.**
 
 </div>
 
 ---
 
-# About CZE-PL
+## About CZE-PL
 
-**CZE-PL** is a modern mobile technology retailer focused on smartphones, accessories, wearable devices, audio products, charging solutions, and everyday consumer electronics.
+**CZE-PL** is a modern online technology store focused on smartphones, mobile accessories, wearables, audio products, charging solutions, and everyday consumer electronics.
 
-Our goal is to create a simple, reliable, and professional shopping experience where customers can discover technology from trusted brands, compare products, explore new releases, and find the right devices for their needs.
+Our goal is to provide customers with a clean, reliable, and professional shopping experience where they can explore current devices, compare products, discover new releases, and find practical technology for everyday life.
 
-CZE-PL is designed around three essential principles:
+CZE-PL is built around four core principles:
 
-**Quality. Value. Customer Experience.**
-
-We believe purchasing technology should be straightforward. Product information should be clear, prices should be transparent, and customers should have access to reliable support throughout their shopping experience.
-
----
-
-# Our Mission
-
-Our mission is to make modern mobile technology more accessible by combining carefully selected products, competitive pricing, useful product information, and dependable customer service.
-
-We want customers to feel confident when choosing their next smartphone, accessory, wearable, or connected device.
+- **Quality**
+- **Value**
+- **Innovation**
+- **Customer Experience**
 
 ---
 
-# Our Vision
+## Our Mission
 
-Our vision is to develop **CZE-PL** into a trusted digital technology retailer recognized for modern design, dependable service, product variety, and an excellent online shopping experience.
+Our mission is to make modern mobile technology easier to discover, compare, and purchase.
 
-We aim to continuously expand our catalog while maintaining a strong focus on quality and customer satisfaction.
+We aim to combine a carefully selected product catalog with competitive pricing, useful product information, modern design, and dependable customer support.
 
 ---
 
-# What We Offer
+## Our Vision
 
-## Smartphones
+Our vision is to grow **CZE-PL** into a trusted digital technology retailer known for:
 
-Discover smartphones designed for every type of customer.
+- Modern shopping experiences
+- Reliable product information
+- Competitive pricing
+- Strong customer support
+- Carefully selected technology
+- Professional digital presentation
+
+---
+
+## Product Categories
+
+### Smartphones
+
+Explore modern smartphones for different needs and budgets.
 
 Our catalog may include:
 
-- Premium flagship smartphones
-- Mid-range smartphones
-- Budget-friendly devices
+- Apple iPhone
+- Samsung Galaxy
+- Google Pixel
+- Motorola
+- OnePlus
+- Xiaomi
+- Nothing Phone
 - Unlocked smartphones
 - 5G smartphones
-- Dual-SIM devices
-- Business smartphones
-- Gaming-focused smartphones
 - Foldable smartphones
-- Refurbished devices when available
-
-### Featured Smartphone Brands
-
-**Apple**  
-**Samsung**  
-**Google**  
-**Motorola**  
-**OnePlus**  
-**Xiaomi**  
-**Nothing**  
-**Selected additional manufacturers**
+- Premium flagship devices
+- Mid-range smartphones
+- Budget-friendly models
 
 ---
 
-## Mobile Accessories
+### Mobile Accessories
 
-Protect, personalize, and improve your devices with practical accessories.
+Complete your setup with practical accessories.
 
-Available categories may include:
-
-- Protective phone cases
-- Screen protectors
+- Protective cases
 - Tempered glass
+- Screen protectors
 - Camera lens protectors
 - USB-C cables
-- Lightning cables
 - Charging adapters
 - Wireless chargers
-- Magnetic chargers
+- Magnetic charging accessories
 - Power banks
 - Car chargers
+- Phone stands
 - Phone holders
-- Desktop stands
 - Travel adapters
 - Cable organizers
 
 ---
 
-## Audio
+### Audio
 
-Enjoy music, entertainment, gaming, and communication with modern audio products.
-
-Products may include:
+Enjoy music, calls, gaming, and entertainment with modern audio products.
 
 - Wireless earbuds
 - Bluetooth headphones
 - Over-ear headphones
+- Portable speakers
 - Gaming headsets
-- Portable Bluetooth speakers
-- USB-C headphones
-- Wireless microphones
-- Charging cases
+- USB-C audio accessories
 - Audio adapters
+- Wireless microphones
 
 ---
 
-## Wearables
+### Wearables
 
-Stay connected throughout your day with smart wearable technology.
-
-Our wearable collection may include:
+Stay connected with wearable technology.
 
 - Smartwatches
 - Fitness trackers
 - Smart bands
+- Smart rings
 - Watch straps
 - Charging docks
-- Smart rings
-- Health and activity accessories
+- Wearable accessories
 
 ---
 
-## Charging & Power
+### Charging & Power
 
-Modern devices require reliable power solutions.
-
-CZE-PL may offer:
+Reliable power solutions for everyday technology.
 
 - Fast chargers
 - USB-C PD chargers
 - GaN chargers
 - Wireless charging stations
-- Magnetic charging accessories
+- Multi-device chargers
 - Portable power banks
-- Multi-device charging stations
 - Car charging solutions
 - Travel charging kits
 
 ---
 
-## Mobile Gaming
+## Featured Brands
 
-Take mobile gaming further with accessories designed for performance and convenience.
+CZE-PL may feature products from trusted technology brands such as:
 
-Our gaming category may include:
-
-- Mobile controllers
-- Gaming triggers
-- Phone cooling systems
-- Gaming headsets
-- Smartphone stands
-- Charging accessories
-- Portable gaming accessories
-
----
-
-# Featured Brands
-
-CZE-PL may offer products from recognized technology brands including:
-
-| Brand | Product Categories |
+| Brand | Main Categories |
 |---|---|
 | Apple | Smartphones, wearables, accessories |
 | Samsung | Smartphones, tablets, wearables |
@@ -190,267 +161,166 @@ CZE-PL may offer products from recognized technology brands including:
 | Belkin | Charging and mobile accessories |
 | JBL | Speakers and audio products |
 | Sony | Audio and mobile accessories |
-| Logitech | Accessories and productivity devices |
 
-> Product availability may vary depending on inventory and market availability.
-
----
-
-# Why Shop With CZE-PL?
-
-## Carefully Selected Products
-
-We focus on products that combine quality, usefulness, performance, and value.
-
-## Competitive Pricing
-
-Our goal is to maintain attractive pricing across smartphones, accessories, and technology products.
-
-## Modern Shopping Experience
-
-The CZE-PL website is being designed to provide a clean, responsive, and easy-to-navigate shopping experience.
-
-## Transparent Product Information
-
-Customers should have access to clear specifications, compatibility information, product details, and purchasing information.
-
-## Customer Support
-
-Our support team is intended to help customers with product questions, compatibility concerns, order information, and general assistance.
-
-## Secure Shopping
-
-Our future online checkout experience will use established and secure payment technologies.
+> Product availability, pricing, and specifications may change over time.
 
 ---
 
-# Shopping Experience
+## Why Choose CZE-PL?
 
-The CZE-PL online store is being developed around simplicity and usability.
+### Competitive Pricing
 
-Customers will be able to:
+We aim to provide attractive prices across smartphones, accessories, and technology products.
 
-- Search for products
-- Browse by category
-- Filter smartphones by brand
-- Compare products
-- View specifications
-- View product images
-- Check pricing
-- Discover promotions
-- Save favorite products
-- Add products to a shopping cart
-- Review order totals
-- Contact support
-- View shipping information
-- Access return information
-- Discover newly released devices
+### Carefully Selected Products
 
----
+Our catalog focuses on useful, modern, and reliable technology.
 
-# Product Information
+### Modern Shopping Experience
 
-Every product page is intended to provide important information such as:
+The CZE-PL website is designed to provide a clean, responsive, and professional user experience.
 
-**Product name**  
-**Brand**  
-**Price**  
-**Product images**  
-**Technical specifications**  
-**Storage capacity**  
-**Memory configuration**  
-**Available colors**  
-**Network compatibility**  
-**Charging information**  
-**Warranty information**  
-**Availability**  
-**Included accessories**
+### Clear Product Information
 
-This allows customers to make informed purchasing decisions.
+Customers can explore product specifications, pricing, features, and compatibility information.
+
+### Customer Support
+
+Our support experience is designed to assist customers with product questions, order information, compatibility, and general store assistance.
 
 ---
 
-# Smartphone Specifications
+## Store Features
 
-Smartphone product pages may include detailed information about:
+The CZE-PL online store is designed to include:
 
-| Specification | Information |
+- Product search
+- Brand filters
+- Category browsing
+- Product cards
+- Product pricing
+- Product images
+- Product specifications
+- Special offers
+- New arrivals
+- Shopping cart
+- Responsive navigation
+- Customer support section
+- Mobile-friendly design
+
+---
+
+## Product Information
+
+Product pages may include:
+
+| Specification | Details |
 |---|---|
+| Brand | Manufacturer |
+| Model | Product model |
 | Display | Size, resolution, refresh rate |
 | Processor | Chipset and performance |
-| RAM | Available memory configurations |
-| Storage | Internal storage capacity |
+| RAM | Memory configuration |
+| Storage | Available internal storage |
 | Camera | Rear and front camera systems |
-| Battery | Battery capacity and charging |
+| Battery | Capacity and charging |
 | Network | 4G / 5G compatibility |
 | Operating System | Android or iOS |
 | Connectivity | Wi-Fi, Bluetooth, NFC |
-| Security | Face recognition, fingerprint |
+| Security | Face recognition / fingerprint |
 | SIM | Physical SIM / eSIM |
 | Colors | Available color options |
 
 ---
 
-# New Arrivals
+## Featured Shopping Sections
 
-CZE-PL intends to continuously update its catalog with newly released technology.
+### New Arrivals
 
-New arrivals may include:
+Discover recently added smartphones, wearables, accessories, and audio products.
 
-**Latest Smartphones**
+### Best Sellers
 
-New generations of popular smartphones and flagship devices.
+Explore popular technology selected by customers.
 
-**Latest Wearables**
+### Premium Smartphones
 
-New smartwatches, fitness trackers, and connected devices.
+High-end mobile devices with advanced cameras, displays, processors, and premium materials.
 
-**Charging Innovations**
+### Accessories
 
-Modern fast-charging technologies and compact charging solutions.
+Charging, protection, audio, and everyday mobile essentials.
 
-**Audio Technology**
+### Special Deals
 
-New wireless earbuds, headphones, and portable speakers.
-
-**Mobile Accessories**
-
-Cases, screen protection, magnetic accessories, and everyday essentials.
+Selected products may be offered at promotional prices for limited periods.
 
 ---
 
-# Special Offers
+## Product Bundles
 
-The CZE-PL store may feature promotional sections including:
-
-### Weekly Deals
-
-Selected products offered at promotional prices.
-
-### Smartphone Deals
-
-Discounts on selected smartphone models.
-
-### Accessory Bundles
-
-Packages combining smartphones with useful accessories.
-
-### Clearance
-
-Special pricing on selected products while supplies last.
-
-### New Customer Offers
-
-Selected promotions designed for first-time customers.
-
----
-
-# Product Bundles
-
-Customers may discover convenient product combinations such as:
+CZE-PL may offer convenient bundles such as:
 
 ### Smartphone Essentials Bundle
 
-Smartphone  
-Protective Case  
-Screen Protector  
-Fast Charger
+- Smartphone
+- Protective case
+- Screen protector
+- Fast charger
 
 ### Travel Bundle
 
-Fast Charger  
-USB-C Cable  
-Power Bank  
-Travel Adapter
+- Fast charger
+- USB-C cable
+- Power bank
+- Travel adapter
 
 ### Mobile Entertainment Bundle
 
-Smartphone  
-Wireless Earbuds  
-Portable Charger
+- Smartphone
+- Wireless earbuds
+- Portable charger
 
 ### Premium Protection Bundle
 
-Protective Case  
-Tempered Glass  
-Camera Lens Protector
+- Protective case
+- Tempered glass
+- Camera lens protector
 
 ---
 
-# Customer Support
+## Customer Support
 
-Customer service is an important part of the CZE-PL experience.
+Need assistance with a product or order?
 
-Our support team may assist customers with:
+**CZE-PL Customer Support**
 
-- Product questions
-- Device compatibility
-- Charging compatibility
-- Order information
-- Shipping questions
-- Returns
-- Product availability
-- General store assistance
+- **Phone:** +1 (404) 555-0198
+- **Email:** support@cze-pl.com
+- **Sales:** sales@cze-pl.com
+- **Website:** www.cze-pl.com
 
-### Contact
-
-**Email:** support@cze-pl.com  
-**Sales:** sales@cze-pl.com  
-**Website:** www.cze-pl.com
-
-> Official contact information can be updated as business communication channels are established.
+Support information can be updated when official business channels are established.
 
 ---
 
-# Shipping
+## Shipping
 
-CZE-PL aims to provide convenient and reliable shipping options.
-
-Shipping availability, estimated delivery times, and shipping fees may depend on:
+Shipping options may vary depending on:
 
 - Customer location
 - Product availability
 - Selected shipping method
-- Order size
 - Carrier availability
+- Order size
 
-Final shipping details will be displayed during checkout.
-
----
-
-# Order Processing
-
-Typical order processing may include:
-
-**1. Order Confirmation**
-
-The customer receives confirmation after successfully placing an order.
-
-**2. Payment Verification**
-
-Payment information is securely processed through the selected payment provider.
-
-**3. Order Preparation**
-
-Products are prepared and checked for shipment.
-
-**4. Shipping**
-
-The order is transferred to the selected shipping carrier.
-
-**5. Tracking**
-
-Tracking information may be provided when available.
-
-**6. Delivery**
-
-The shipment is delivered to the customer's selected address.
+Final shipping details should be displayed during checkout.
 
 ---
 
-# Returns & Refunds
+## Returns & Refunds
 
-Eligible purchases may qualify for returns according to the official CZE-PL return policy.
+Eligible products may qualify for returns according to the official CZE-PL return policy.
 
 Returned products may be required to include:
 
@@ -460,116 +330,58 @@ Returned products may be required to include:
 - Original product condition
 - Proof of purchase
 
-Certain items may have specific return restrictions.
-
-Complete return and refund terms will be published on the official CZE-PL website.
+Complete return and refund terms should be published on the official website.
 
 ---
 
-# Warranty
+## Warranty
 
 Warranty coverage may vary depending on:
 
-- Product
 - Manufacturer
-- Condition
+- Product
 - Supplier
+- Product condition
 - Purchase location
 
-Customers should review the warranty information displayed on the individual product page before purchasing.
+Customers should review the warranty information shown on each product page before purchasing.
 
 ---
 
-# Product Authenticity
+## Security
 
-CZE-PL aims to source products through reliable suppliers and distributors.
+The CZE-PL store is intended to follow modern web security practices.
 
-Customers should receive accurate information regarding:
+Potential security features include:
 
-- Product condition
-- Model
-- Storage capacity
-- Color
-- Compatibility
-- Included accessories
-- Warranty status
-
----
-
-# Security
-
-Protecting customers and maintaining a reliable shopping environment is an important part of our platform.
-
-The CZE-PL website may incorporate:
-
-- HTTPS encryption
-- Secure checkout technology
-- Trusted payment gateways
-- Secure account authentication
-- Fraud prevention measures
-- Modern web security practices
-- Privacy protection measures
-
-Payment information should be handled through authorized payment processors whenever possible.
+- HTTPS
+- Secure checkout
+- Trusted payment processors
+- Secure authentication
+- Fraud prevention
+- Privacy protection
+- Safe customer communication
 
 ---
 
-# Privacy
-
-CZE-PL respects customer privacy.
+## Privacy
 
 Customer information should only be collected when necessary for:
 
 - Processing orders
-- Providing customer support
-- Managing accounts
-- Processing payments
+- Providing support
+- Managing customer accounts
 - Shipping products
+- Processing payments
 - Improving store functionality
 
-A complete Privacy Policy will be available on the official website.
+A complete Privacy Policy should be available on the official website.
 
 ---
 
-# Payment Methods
+## Website Technology
 
-Future checkout options may include supported methods such as:
-
-- Major credit cards
-- Major debit cards
-- Digital wallets
-- Mobile payment services
-- Secure online payment processors
-
-Payment availability will depend on the final payment infrastructure used by the store.
-
----
-
-# Website Features
-
-The CZE-PL website is planned to include:
-
-| Feature | Status |
-|---|---|
-| Responsive Design | Planned |
-| Smartphone Catalog | Planned |
-| Product Search | Planned |
-| Product Filters | Planned |
-| Shopping Cart | Planned |
-| Product Comparison | Planned |
-| Customer Support | Planned |
-| Promotions | Planned |
-| New Arrivals | Planned |
-| Product Reviews | Future Feature |
-| Customer Accounts | Future Feature |
-| Wishlist | Future Feature |
-| Order Tracking | Future Feature |
-
----
-
-# Website Technology
-
-The first version of the CZE-PL online store may use:
+The CZE-PL website can be built using:
 
 ### Frontend
 
@@ -578,103 +390,38 @@ The first version of the CZE-PL online store may use:
 - JavaScript
 - Responsive Web Design
 
-### Development
+### Development & Hosting
 
 - Git
 - GitHub
 - GitHub Pages
 
-### Future Technologies
+### Future Integrations
 
-As the platform grows, additional technologies may be introduced for:
-
-- Ecommerce functionality
-- Product databases
-- Customer accounts
-- Order management
-- Payment processing
+- Ecommerce platform
+- Product database
 - Inventory management
+- Payment processing
+- Customer accounts
+- Order tracking
 - Analytics
-- Customer support
+- Support tools
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
-cze-pl/
-│
+cze-pl-store/
 ├── index.html
-│
-├── shop.html
-│
-├── products.html
-│
-├── product.html
-│
-├── brands.html
-│
-├── deals.html
-│
-├── new-arrivals.html
-│
-├── cart.html
-│
-├── checkout.html
-│
-├── about.html
-│
-├── contact.html
-│
-├── support.html
-│
-├── shipping.html
-│
-├── returns.html
-│
-├── privacy.html
-│
-├── terms.html
-│
-├── 404.html
-│
-├── favicon.ico
-│
+├── preview.html
 ├── README.md
-│
-├── LICENSE
-│
-├── robots.txt
-│
-├── sitemap.xml
-│
-├── css/
-│   ├── style.css
-│   ├── responsive.css
-│   └── animations.css
-│
-├── js/
-│   ├── app.js
-│   ├── cart.js
-│   ├── products.js
-│   └── search.js
-│
+├── SOURCES.md
 ├── assets/
 │   ├── logo/
-│   │   ├── cze-pl-logo.png
-│   │   └── favicon.png
-│   │
-│   ├── banners/
-│   │   ├── hero-banner.jpg
-│   │   └── sale-banner.jpg
-│   │
 │   ├── products/
-│   │   ├── smartphones/
-│   │   ├── accessories/
-│   │   ├── audio/
-│   │   └── wearables/
-│   │
-│   └── icons/
-│
-└── data/
-    └── products.json
+│   └── banners/
+├── css/
+│   └── style.css
+└── js/
+    └── app.js
